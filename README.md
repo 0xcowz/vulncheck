@@ -1,4 +1,4 @@
-# VulnCheck
+Check des vulnérabilités existantes sur un poste par une API publique.
 
 Script in two steps :
 - 1 > csv_creator.ps1 > Will create the .csv file that contain all the vuln's on the PC using CISA KEV
